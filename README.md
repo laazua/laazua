@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 目前就职于国内某游戏公司，从事linux系统运维相关的工作.
 - 本github地址记录一些平时工作和学习中遇到到的一些知识和经验.
+
+- 😄
