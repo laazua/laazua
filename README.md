@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 本github地址记录一些平时工作和学习中遇到到的一些知识和经验.
 
-- 加油, 奥利给！！😄
+- 🔭 从事linux系统运维相关的工作
+- 🤔 本github地址记录一些平时工作和学习中遇到到的一些知识和经验.
+- 😄 加油, 奥利给！！
