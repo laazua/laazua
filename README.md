@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 从事linux系统运维相关的工作
+- 🔭 从事linux系统运维相关的工作.
 - 🤔 本github地址记录一些平时工作和学习中遇到到的一些知识和经验.
 - ❤  我喜欢的语言: python、shell、Go.
 - 😄 加油, 奥利给！
