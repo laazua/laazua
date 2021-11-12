@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ❤  我喜欢的语言: python、golang、bash.
 - 😄 加油, 奥利给！
 -->
--- echo "hello world"
+--> hello world
