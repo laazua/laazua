@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 --> hello world
 - ❤  我熟悉的语言: python、golang、bash
 
-|-----------------------------------------------------------------|------------------------------------------------------------|
+|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 |[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sseve&show_icons=true&theme=radical)](https://github.com/Sseve/github-readme-stats)|
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sseve&hide=javascript,html&theme=radical)](https://github.com/Sseve/github-readme-stats)|
-|-----------------------------------------------------------------|------------------------------------------------------------|
+|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 
 ![Image text](https://res.cloudinary.com/practicaldev/image/fetch/s--yYiDPnHh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/snu9zy2ywp0ftfcthda2.jpg)
