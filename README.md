@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 |github stats|languages|
 |---|---|
 |[![Sseve's github stats](https://github-readme-stats.vercel.app/api?username=Sseve&show_icons=true&theme=radical)](https://github.com/Sseve/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sseve&hide=javascript,html&theme=radical)](https://github.com/Sseve/github-readme-stats)|
-|![Image text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmorioh.com%2Fp%2Fc217c8f96282&psig=AOvVaw1KsqDswi770NmixMAdzGh_&ust=1643371893050000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCj78fz0fUCFQAAAAAdAAAAABAK)|
+![Image text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmorioh.com%2Fp%2Fc217c8f96282&psig=AOvVaw1KsqDswi770NmixMAdzGh_&ust=1643371893050000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCj78fz0fUCFQAAAAAdAAAAABAK)
 
 <!--
 ![Image text](https://res.cloudinary.com/practicaldev/image/fetch/s--yYiDPnHh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/snu9zy2ywp0ftfcthda2.jpg)
