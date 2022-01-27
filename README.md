@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 😄 加油, 奥利给！
 -->
 --> hello world
-- ❤  我喜欢的语言: python、golang
+- ❤  我熟悉的语言: python、golang、bash
 
 ![Image text](https://res.cloudinary.com/practicaldev/image/fetch/s--yYiDPnHh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/snu9zy2ywp0ftfcthda2.jpg)
