@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 - 🤔 本github地址记录一些平时工作和学习中遇到到的一些知识和经验.
 - ❤  我喜欢的语言: python、golang、bash.
 - 😄 加油, 奥利给！
--->
---> hello world
 - ❤  我熟悉的语言: python、golang、bash
+--> 
 
+<!--
 |STATS|LANGUAGES|
 |---|---|
 |[![Sseve's github stats](https://github-readme-stats.vercel.app/api?username=Sseve&show_icons=true&theme=radical)](https://github.com/Sseve/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sseve&hide=html,javascript&theme=radical&layout=compact)](https://github.com/Sseve/github-readme-stats)|
-
+-->
 <!--
 ![Image text](http://img.5iqiqu.com/images13/93/93a35199235af2b5c8212348c340f0c2.gif)
 -->
