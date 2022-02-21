@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 --> 
 - 🔭 从事linux系统运维相关的工作.
 - 🤔 本github地址记录一些平时工作和学习中遇到到的一些知识和经验.
-- ❤  我喜欢的语言: python、golang、bash.
+- ❤  工作中用到的语言: python、golang、bash
 - 😄 加油, 奥利给！
-- ❤  我熟悉的语言: python、golang、bash
 
 
 
