@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-- 🔭 I'm currently working on linux system operation and maintenance
-- 🤔 This github address records some knowledge encountered in daily work and study.
-- ❤  Job language: python、golang、bash
+- 🔭 从事linux系统运维相关的工作
+- 🤔 本github记录一些日常学到的知识.
+- ❤  个人技能: python、golang、bash、ansible、docker、k8s、ELK、fastapi、flask、gin、jenkins等
 <!--
 - 😄 加油, 奥利给！
 
