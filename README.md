@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 --> 
 - 🔭 从事linux系统运维相关的工作.
 - 🤔 本github记录一些日常学到的知识.
-- ❤  个人技能: linux、python、ansible、docker、fastapi、jenkins等.
+- ❤  个人技能: linux、python、ansible、fastapi、golang、docker、jenkins等.
 <!--
 - 😄 加油, 奥利给！
 
