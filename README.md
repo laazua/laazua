@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 - 🔭 从事linux系统运维相关的工作.
 - 🤔 本github记录一些日常学到的知识.
 - 🌱 目前在学习云原生和devops相关技术栈.
-- ❤  技术栈:
-  - ![k8s](https://commons.wikimedia.org/wiki/File:Kubernetes_logo_without_workmark.svg)
-  - ![python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png)
-  - ![golang](https://commons.wikimedia.org/wiki/File:Go_Logo_Blue.svg)
-  - ![cicd]
+- ❤  个人技术栈: linux、python、shell、golang、kubernetes、docker等.
 <!--
 - ❤  个人技能: linux、python、ansible、fastapi、golang、docker、jenkins等.
 - 😄 [MyBlog](http://101.132.245.153:8000/) -->
