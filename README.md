@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 ![K8s](https://img.shields.io/badge/Kubernetes-14354C.svg?logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-14354C.svg?logo=helm&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-14354C.svg?logo=ansible&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-14354C?logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-14354C.svg?logo=go&logoColor=white)
+![Kcl](https://img.shields.io/badge/Kcl-14354C?logo=kcl&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-14354C?logo=visual-studio-code&logoColor=white)
 <!--
 - ❤  个人技能: linux、python、ansible、fastapi、golang、docker、jenkins等.
 - 😄 [MyBlog](http://101.132.245.153:8000/) -->
