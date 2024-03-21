@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 从事linux系统运维相关的工作.
 - 🤔 本github记录一些日常学到的知识.
 - 🌱 目前在学习云原生和devops相关技术栈.
-#### 工具和语言
+#### 工具和语言 ❤
 ![Linux](https://img.shields.io/badge/Linux-14354C?logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-14354C?logo=shell&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-14354C?logo=Jenkins&logoColor=white?style=plastic)
