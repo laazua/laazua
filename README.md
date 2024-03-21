@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ![Jenkins](https://img.shields.io/badge/Jenkins-14354C?logo=Jenkins&logoColor=white?style=plastic)
 ![Docker](https://img.shields.io/badge/Docker-14354C.svg?logo=docker&logoColor=white)
 ![K8s](https://img.shields.io/badge/Kubernetes-14354C.svg?logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-14354C.svg?logo=helm&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-14354C.svg?logo=ansible&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-14354C?logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
