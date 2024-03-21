@@ -26,11 +26,10 @@ Here are some ideas to get you started:
 ![Ansible](https://img.shields.io/badge/Ansible-14354C.svg?logo=ansible&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-14354C.svg?logo=go&logoColor=white)
-![C/C++](https://img.shields.io/badge/C/C++-14354C?logo=C/C++&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-14354C?logo=visual-studio-code&logoColor=white)
 <!--
-- ❤  个人技能: linux、python、ansible、fastapi、golang、docker、jenkins等.
-- 😄 [MyBlog](http://101.132.245.153:8000/) -->
+![C/C++](https://img.shields.io/badge/C/C++-14354C?logo=C/C++&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-14354C?logo=rust&logoColor=white)
 <!--
 - 😄 加油, 奥利给！
 
