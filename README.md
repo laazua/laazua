@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 目前在学习云原生和devops相关技术栈.
 #### 工具和语言 ❤
 ![Linux](https://img.shields.io/badge/Linux-14354C?logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-14354C?logo=shell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-14354C?logo=bash&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-14354C?logo=Jenkins&logoColor=white?style=plastic)
 ![Docker](https://img.shields.io/badge/Docker-14354C.svg?logo=docker&logoColor=white)
 ![K8s](https://img.shields.io/badge/Kubernetes-14354C.svg?logo=kubernetes&logoColor=white)
