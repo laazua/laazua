@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 - 🤔 本github记录一些日常学到的知识.
 - 🌱 目前在学习云原生和devops相关技术.
 #### 工具和语言 ❤
-![Linux](https://img.shields.io/badge/Linux-77FFEE?logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-77FFEE?logo=shell&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-77FFEE?logo=Jenkins&logoColor=black?style=plastic)
-![Docker](https://img.shields.io/badge/Docker-77FFEE.svg?logo=docker&logoColor=black)
-![K8s](https://img.shields.io/badge/Kubernetes-77FFEE.svg?logo=kubernetes&logoColor=black)
-![Helm](https://img.shields.io/badge/Helm-77FFEE.svg?logo=helm&logoColor=black)
-![Ansible](https://img.shields.io/badge/Ansible-77FFEE.svg?logo=ansible&logoColor=black)
-![Python](https://img.shields.io/badge/Python-77FFEE.svg?logo=python&logoColor=black)
-![Golang](https://img.shields.io/badge/Golang-77FFEE.svg?logo=go&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-77FFEE?logo=visual-studio-code&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-7A0099?logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-7A0099?logo=shell&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-7A0099?logo=Jenkins&logoColor=white?style=plastic)
+![Docker](https://img.shields.io/badge/Docker-7A0099.svg?logo=docker&logoColor=white)
+![K8s](https://img.shields.io/badge/Kubernetes-7A0099.svg?logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-7A0099.svg?logo=helm&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-7A0099.svg?logo=ansible&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-7A0099?logo=visual-studio-code&logoColor=white)
 <!--
 ![C/C++](https://img.shields.io/badge/C/C++-14354C?logo=C/C++&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-14354C?logo=rust&logoColor=white)
