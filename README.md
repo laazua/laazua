@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ![Ansible](https://img.shields.io/badge/Ansible-7A0099.svg?logo=ansible&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-7A0099?logo=visual-studio-code&logoColor=white)
 <!--
+![VSCode](https://img.shields.io/badge/VSCode-7A0099?logo=visual-studio-code&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-14354C?logo=C/C++&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-14354C?logo=rust&logoColor=white)
 <!--
