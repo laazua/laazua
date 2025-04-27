@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 ![K8s](https://img.shields.io/badge/Kubernetes-7A0099.svg?logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-7A0099.svg?logo=helm&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-7A0099.svg?logo=ansible&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-7A0099.svg?logo=kubernetes&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-7A0099.svg?logo=elasticsearch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-7A0099.svg?logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7A0099.svg?logo=java&logoColor=white)
 <!--
 ![VSCode](https://img.shields.io/badge/VSCode-7A0099?logo=visual-studio-code&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-14354C?logo=C/C++&logoColor=white)
