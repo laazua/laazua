@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-- 🔭 从事Linux系统运维相关的工作.
-- 🤔 本github记录一些日常学到的知识.
-- 🌱 在学习和研究自动化运维,云原生和devops相关技术.
-#### 工具和语言 ❤
+- 🔭 Work on Linux system operation and maintenance.
+- 🌱 Currently learning and researching automation, cloud native and devops related technologies.
+#### Tools & Lang ❤
 ![Linux](https://img.shields.io/badge/Linux-7A0099?logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-7A0099?logo=shell&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-7A0099?logo=Jenkins&logoColor=white?style=plastic)
@@ -24,6 +23,7 @@ Here are some ideas to get you started:
 ![K8s](https://img.shields.io/badge/Kubernetes-7A0099.svg?logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-7A0099.svg?logo=helm&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-7A0099.svg?logo=ansible&logoColor=white)
+![Elk](https://img.shields.io/badge/Elk-7A0099.svg?logo=kubernetes&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white)
 <!--
