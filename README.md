@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-7A0099.svg?logo=kubernetes&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7A0099.svg?logo=go&logoColor=white)
 <!--
 ![VSCode](https://img.shields.io/badge/VSCode-7A0099?logo=visual-studio-code&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-14354C?logo=C/C++&logoColor=white)
