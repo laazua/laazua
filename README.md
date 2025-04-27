@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### Lang 
 ![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-7A0099?logo=javase&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7A0099?logo=Java&logoColor=white)
 
 #### Tool
 ![Linux](https://img.shields.io/badge/Linux-7A0099?logo=linux&logoColor=white)
