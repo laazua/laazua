@@ -1,4 +1,4 @@
-#### 关于我 👋
+#### About me 👋
 <!--
 **Sseve/Sseve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
