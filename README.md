@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 --> 
 - 🔭 Work on Linux system operation and maintenance.
 - 🌱 Currently learning and researching automation, cloud native and devops related technologies.
-# Lang ❤ ![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white) ![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white)
+# Lang ❤ 
+![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white) ![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white)
 
-# Tools ⚡ ![Linux](https://img.shields.io/badge/Linux-7A0099?logo=linux&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-7A0099?logo=shell&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-7A0099.svg?logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-7A0099.svg?logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-7A0099.svg?logo=helm&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-7A0099?logo=Jenkins&logoColor=white?style=plastic) ![Ansible](https://img.shields.io/badge/Ansible-7A0099.svg?logo=ansible&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-7A0099.svg?logo=Elasticsearch&logoColor=white)
+# Tools ⚡ 
+![Linux](https://img.shields.io/badge/Linux-7A0099?logo=linux&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-7A0099?logo=shell&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-7A0099.svg?logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-7A0099.svg?logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-7A0099.svg?logo=helm&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-7A0099?logo=Jenkins&logoColor=white?style=plastic) ![Ansible](https://img.shields.io/badge/Ansible-7A0099.svg?logo=ansible&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-7A0099.svg?logo=Elasticsearch&logoColor=white)
 
 <!--
 ![VSCode](https://img.shields.io/badge/VSCode-7A0099?logo=visual-studio-code&logoColor=white)
