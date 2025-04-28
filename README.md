@@ -27,9 +27,12 @@ Here are some ideas to get you started:
 
 ### Tools ⚡ 
 ![Linux](https://img.shields.io/badge/Linux-7A0099?logo=linux&logoColor=white&style=plastic)
+![Vim](https://img.shields.io/badge/Vim-7A0099?logo=vim&logoColor=white&style=plastic)
 ![Bash](https://img.shields.io/badge/Bash-7A0099?logo=shell&logoColor=white&style=plastic)
+![Git](https://img.shields.io/badge/Git-7A0099?logo=git&logoColor=white&style=plastic)
 ![Docker](https://img.shields.io/badge/Docker-7A0099.svg?logo=docker&logoColor=white&style=plastic)
 ![K8s](https://img.shields.io/badge/Kubernetes-7A0099.svg?logo=kubernetes&logoColor=white&style=plastic)
+![Etcd](https://img.shields.io/badge/Etcd-7A0099?logo=etcd&logoColor=white&style=plastic)
 ![Helm](https://img.shields.io/badge/Helm-7A0099.svg?logo=helm&logoColor=white&style=plastic)
 ![Jenkins](https://img.shields.io/badge/Jenkins-7A0099?logo=Jenkins&logoColor=white?style=plastic&style=plastic)
 ![Ansible](https://img.shields.io/badge/Ansible-7A0099.svg?logo=ansible&logoColor=white&style=plastic)
@@ -42,7 +45,9 @@ Here are some ideas to get you started:
 ![Rabbitmq](https://img.shields.io/badge/Rabbitmq-7A0099?logo=rabbitmq&logoColor=white&style=plastic)
 ![Nginx](https://img.shields.io/badge/Nginx-7A0099?logo=nginx&logoColor=white&style=plastic)
 ![Prometheus](https://img.shields.io/badge/Prometheus-7A0099?logo=prometheus&logoColor=white&style=plastic)
+![NetData](https://img.shields.io/badge/Netdata-7A0099?logo=netdata&logoColor=white&style=plastic)
 ![V2ray](https://img.shields.io/badge/V2ray-7A0099.svg?logo=openVPN&logoColor=white&style=plastic)
+![OpenAI](https://img.shields.io/badge/OpenAI-7A0099?logo=openAI&logoColor=white&style=plastic)
 
 <!--
 ![VSCode](https://img.shields.io/badge/VSCode-7A0099?logo=visual-studio-code&logoColor=white)
