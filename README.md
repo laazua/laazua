@@ -30,6 +30,13 @@ Here are some ideas to get you started:
 ![Jenkins](https://img.shields.io/badge/Jenkins-7A0099?logo=Jenkins&logoColor=white?style=plastic&style=for-the-badge)
 ![Ansible](https://img.shields.io/badge/Ansible-7A0099.svg?logo=ansible&logoColor=white&style=for-the-badge)
 ![Elastic](https://img.shields.io/badge/Elastic-7A0099.svg?logo=Elastic&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-7A0099.svg?logo=redis&logoColor=white&style=for-the-badge)
+![Mysql](https://img.shields.io/badge/MySQL-7A0099?logo=mysql&logoColor=white&style=for-the-badge)
+![Mongo](https://img.shields.io/badge/Mongo-7A0099?logo=mongodb&logoColor=white&style=for-the=badge)
+![Clickhouse](https://img.shields.io/badge/Clickhouse-7A0099.svg?logo=clickhouse&logoColor=white&style=for-the-badge)
+![Rabbitmq](https://img.shields.io/badge/Rabbitmq-7A0099?logo=rabbitmq&logoColor=white&style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-7A0099?logo=nginx&logoColor=white&style=for-the-badge)
+![V2ray](https://img.shields.io/badge/V2ray-7A0099.svg?logo=openVPN&logoColor=white&style=for-the-badge)
 
 <!--
 ![VSCode](https://img.shields.io/badge/VSCode-7A0099?logo=visual-studio-code&logoColor=white)
