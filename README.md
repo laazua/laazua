@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white&link=https://python.org&style=for-the-badge)
 ![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white&link=https://go.dev&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-7A0099.svg?logo=openjdk&logoColor=white&link=https://dev.java&style=for-the-badge)
+![Jinja](https://img.shields.io/badge/Jinja-7A0099?logo=Jinja&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-7A0099?logo=Django&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-7A0099?logo=Flask&logoColor=white&style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-7A0099?logo=FastAPI&logoColor=white&style=for-the-badge)
