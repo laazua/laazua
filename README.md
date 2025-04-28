@@ -1,4 +1,4 @@
-# About me 👋
+### About me 👋
 <!--
 **Sseve/Sseve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 --> 
 - 🔭 Work on Linux system operation and maintenance.
 - 🌱 Currently learning and researching automation, cloud native and devops related technologies.
-# Lang ❤ 
+### Lang ❤ 
 ![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-7A0099.svg?logo=openjdk&logoColor=white)
 
-# Tools ⚡ 
+### Tools ⚡ 
 ![Linux](https://img.shields.io/badge/Linux-7A0099?logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-7A0099?logo=shell&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-7A0099.svg?logo=docker&logoColor=white)
