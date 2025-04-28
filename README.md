@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Lang ❤ 
 ![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white&link=https://python.org&style=for-the-badge)
 ![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white&link=https://go.dev&style=for-the-badge)
-![Java](https://img.shields.io/badge/JavaSE-7A0099.svg?logo=openjdk&logoColor=white&link=https://dev.java&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-7A0099.svg?logo=openjdk&logoColor=white&link=https://dev.java&style=for-the-badge)
 
 ### Tools ⚡ 
 ![Linux](https://img.shields.io/badge/Linux-7A0099?logo=linux&logoColor=white&style=for-the-badge)
