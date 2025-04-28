@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 - 🔭 Work on Linux system operation and maintenance.
 - 🌱 Currently learning and researching automation, cloud native and devops related technologies.
 ### Lang ❤ 
+![Bash](https://img.shields.io/badge/Bash-7A0099?logo=shell&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white&link=https://python.org&style=for-the-badge)
 ![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white&link=https://go.dev&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-7A0099.svg?logo=openjdk&logoColor=white&link=https://dev.java&style=for-the-badge)
 
 ### Tools ⚡ 
 ![Linux](https://img.shields.io/badge/Linux-7A0099?logo=linux&logoColor=white&style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-7A0099?logo=shell&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-7A0099.svg?logo=docker&logoColor=white&style=for-the-badge)
 ![K8s](https://img.shields.io/badge/Kubernetes-7A0099.svg?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![Helm](https://img.shields.io/badge/Helm-7A0099.svg?logo=helm&logoColor=white&style=for-the-badge)
