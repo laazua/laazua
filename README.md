@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ![Elastic](https://img.shields.io/badge/Elastic-7A0099.svg?logo=Elastic&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-7A0099.svg?logo=redis&logoColor=white&style=for-the-badge)
 ![Mysql](https://img.shields.io/badge/MySQL-7A0099?logo=mysql&logoColor=white&style=for-the-badge)
+![Postgresql](https://img.shields.io/badge/Postgresql-7A0099?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Mongo](https://img.shields.io/badge/Mongo-7A0099?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Clickhouse](https://img.shields.io/badge/Clickhouse-7A0099.svg?logo=clickhouse&logoColor=white&style=for-the-badge)
 ![Rabbitmq](https://img.shields.io/badge/Rabbitmq-7A0099?logo=rabbitmq&logoColor=white&style=for-the-badge)
