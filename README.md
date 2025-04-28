@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ![Clickhouse](https://img.shields.io/badge/Clickhouse-7A0099.svg?logo=clickhouse&logoColor=white&style=for-the-badge)
 ![Rabbitmq](https://img.shields.io/badge/Rabbitmq-7A0099?logo=rabbitmq&logoColor=white&style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/Nginx-7A0099?logo=nginx&logoColor=white&style=for-the-badge)
+![Prometheus](https://img.shields.io/badge/Prometheus-7A0099?logo=prometheus&logoColor=white&style=for-the-badge)
 ![V2ray](https://img.shields.io/badge/V2ray-7A0099.svg?logo=openVPN&logoColor=white&style=for-the-badge)
 
 <!--
