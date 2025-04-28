@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 Work on Linux system operation and maintenance.
 - 🌱 Currently learning and researching automation, cloud native and devops related technologies.
 ### Lang ❤ 
-![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white&link=https://python.org&plastic)
+![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white&link=https://python.org&style=plastic)
 ![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white&link=https://go.dev&style=social)
 ![Java](https://img.shields.io/badge/Java-7A0099.svg?logo=openjdk&logoColor=white&link=https://dev.java&style=social)
 ![Jinja](https://img.shields.io/badge/Jinja-7A0099?logo=Jinja&logoColor=white&style=social)
