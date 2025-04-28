@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 - 🔭 Work on Linux system operation and maintenance.
 - 🌱 Currently learning and researching automation, cloud native and devops related technologies.
 ### Lang ❤ 
-![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white&link=https://python.org&social)
-![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white&link=https://go.dev&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-7A0099.svg?logo=openjdk&logoColor=white&link=https://dev.java&style=for-the-badge)
-![Jinja](https://img.shields.io/badge/Jinja-7A0099?logo=Jinja&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-7A0099?logo=Django&logoColor=white&style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-7A0099?logo=Flask&logoColor=white&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-7A0099?logo=FastAPI&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white&link=https://python.org&plastic)
+![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white&link=https://go.dev&style=social)
+![Java](https://img.shields.io/badge/Java-7A0099.svg?logo=openjdk&logoColor=white&link=https://dev.java&style=social)
+![Jinja](https://img.shields.io/badge/Jinja-7A0099?logo=Jinja&logoColor=white&style=social)
+![Django](https://img.shields.io/badge/Django-7A0099?logo=Django&logoColor=white&style=social)
+![Flask](https://img.shields.io/badge/Flask-7A0099?logo=Flask&logoColor=white&style=social)
+![FastAPI](https://img.shields.io/badge/FastAPI-7A0099?logo=FastAPI&logoColor=white&style=social)
 
 ### Tools ⚡ 
 ![Linux](https://img.shields.io/badge/Linux-7A0099?logo=linux&logoColor=white&style=for-the-badge)
