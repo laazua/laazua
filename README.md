@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 ### Tools ⚡ 
 ![Linux](https://img.shields.io/badge/Linux-7A0099?logo=linux&logoColor=white&style=plastic)
-![Vim](https://img.shields.io/badge/Vim-7A0099?logo=vim&logoColor=white&style=plastic)
 ![Bash](https://img.shields.io/badge/Bash-7A0099?logo=shell&logoColor=white&style=plastic)
 ![Docker](https://img.shields.io/badge/Docker-7A0099.svg?logo=docker&logoColor=white&style=plastic)
 ![Podman](https://img.shields.io/badge/Podman-7A0099?logo=podman&logoColor=white&style=plastic)
