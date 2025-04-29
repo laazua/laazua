@@ -17,12 +17,26 @@ Here are some ideas to get you started:
 - 🔭 Work on Linux system operation and maintenance.
 - 🌱 Currently learning and researching automation, cloud native and devops related technologies.
 ### Lang ❤ 
-|--|--|--|--|--|--|--|
-|![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white&link=https://python.org&style=plastic)|![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white&link=https://go.dev&style=plastic)|![Java](https://img.shields.io/badge/Java-7A0099.svg?logo=openjdk&logoColor=white&link=https://dev.java&style=plastic)|![Jinja](https://img.shields.io/badge/Jinja-7A0099?logo=Jinja&logoColor=white&style=plastic)|![Django](https://img.shields.io/badge/Django-7A0099?logo=Django&logoColor=white&style=plastic)|![Flask](https://img.shields.io/badge/Flask-7A0099?logo=Flask&logoColor=white&style=plastic)|![FastAPI](https://img.shields.io/badge/FastAPI-7A0099?logo=FastAPI&logoColor=white&style=plastic)|
+![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white&link=https://python.org&style=plastic)
+![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white&link=https://go.dev&style=plastic)
+![Java](https://img.shields.io/badge/Java-7A0099.svg?logo=openjdk&logoColor=white&link=https://dev.java&style=plastic)
+![Jinja](https://img.shields.io/badge/Jinja-7A0099?logo=Jinja&logoColor=white&style=plastic)
+![Django](https://img.shields.io/badge/Django-7A0099?logo=Django&logoColor=white&style=plastic)
+![Flask](https://img.shields.io/badge/Flask-7A0099?logo=Flask&logoColor=white&style=plastic)
+![FastAPI](https://img.shields.io/badge/FastAPI-7A0099?logo=FastAPI&logoColor=white&style=plastic)
 
 ### Tools ⚡ 
-|![Linux](https://img.shields.io/badge/Linux-7A0099?logo=linux&logoColor=white&style=plastic)|![Bash](https://img.shields.io/badge/Bash-7A0099?logo=shell&logoColor=white&style=plastic)|![Docker](https://img.shields.io/badge/Docker-7A0099.svg?logo=docker&logoColor=white&style=plastic)|![Podman](https://img.shields.io/badge/Podman-7A0099?logo=podman&logoColor=white&style=plastic)|![K8s](https://img.shields.io/badge/Kubernetes-7A0099.svg?logo=kubernetes&logoColor=white&style=plastic)|![Etcd](https://img.shields.io/badge/Etcd-7A0099?logo=etcd&logoColor=white&style=plastic)|![Helm](https://img.shields.io/badge/Helm-7A0099.svg?logo=helm&logoColor=white&style=plastic)|![Jenkins](https://img.shields.io/badge/Jenkins-7A0099?logo=Jenkins&logoColor=white?style=plastic&style=plastic)|![Ansible](https://img.shields.io/badge/Ansible-7A0099.svg?logo=ansible&logoColor=white&style=plastic)|![Elastic](https://img.shields.io/badge/Elastic-7A0099.svg?logo=Elastic&logoColor=white&style=plastic)|![Redis](https://img.shields.io/badge/Redis-7A0099.svg?logo=redis&logoColor=white&style=plastic)|
-|![Mysql](https://img.shields.io/badge/MySQL-7A0099?logo=mysql&logoColor=white&style=plastic)|![Postgresql](https://img.shields.io/badge/Postgresql-7A0099?logo=postgresql&logoColor=white&style=plastic)|![Mongo](https://img.shields.io/badge/Mongo-7A0099?logo=mongodb&logoColor=white&style=plastic)|![Clickhouse](https://img.shields.io/badge/Clickhouse-7A0099.svg?logo=clickhouse&logoColor=white&style=plastic)|![Rabbitmq](https://img.shields.io/badge/Rabbitmq-7A0099?logo=rabbitmq&logoColor=white&style=plastic)|![Nginx](https://img.shields.io/badge/Nginx-7A0099?logo=nginx&logoColor=white&style=plastic)|![Prometheus](https://img.shields.io/badge/Prometheus-7A0099?logo=prometheus&logoColor=white&style=plastic)|![Grafana](https://img.shields.io/badge/Grafana-7A0099?logo=grafana&logoColor=white&style=plastic)|![NetData](https://img.shields.io/badge/Netdata-7A0099?logo=netdata&logoColor=white&style=plastic)|![V2ray](https://img.shields.io/badge/V2ray-7A0099.svg?logo=openVPN&logoColor=white&style=plastic)|![OpenAI](https://img.shields.io/badge/OpenAI-7A0099?logo=openAI&logoColor=white&style=plastic)|
+![Linux](https://img.shields.io/badge/Linux-7A0099?logo=linux&logoColor=white&style=plastic)
+![Docker](https://img.shields.io/badge/Docker-7A0099.svg?logo=docker&logoColor=white&style=plastic)
+![K8s](https://img.shields.io/badge/Kubernetes-7A0099.svg?logo=kubernetes&logoColor=white&style=plastic)
+![Helm](https://img.shields.io/badge/Helm-7A0099.svg?logo=helm&logoColor=white&style=plastic)
+![Jenkins](https://img.shields.io/badge/Jenkins-7A0099?logo=Jenkins&logoColor=white?style=plastic&style=plastic)
+![Ansible](https://img.shields.io/badge/Ansible-7A0099.svg?logo=ansible&logoColor=white&style=plastic)
+![Elastic](https://img.shields.io/badge/Elastic-7A0099.svg?logo=Elastic&logoColor=white&style=plastic)
+![Rabbitmq](https://img.shields.io/badge/Rabbitmq-7A0099?logo=rabbitmq&logoColor=white&style=plastic)
+![Nginx](https://img.shields.io/badge/Nginx-7A0099?logo=nginx&logoColor=white&style=plastic)
+![Prometheus](https://img.shields.io/badge/Prometheus-7A0099?logo=prometheus&logoColor=white&style=plastic)
+![V2ray](https://img.shields.io/badge/V2ray-7A0099.svg?logo=openVPN&logoColor=white&style=plastic)
 <!--
 ![VSCode](https://img.shields.io/badge/VSCode-7A0099?logo=visual-studio-code&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-14354C?logo=C/C++&logoColor=white)
