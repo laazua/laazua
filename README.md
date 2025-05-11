@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 --> 
 - 🔭 Work on Linux system operation and maintenance.
 - 🌱 Currently learning and researching automation, cloud native and devops related technologies.
+- 🤔 My goal is to become a full stack engineer.
 ### Lang ❤ 
 ![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white&link=https://python.org&style=plastic)
 ![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white&link=https://go.dev&style=plastic)
