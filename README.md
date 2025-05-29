@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - ❤
 --> 
-- 🔭 Work on Linux system operation and maintenance.
+- 🔭 I work in the technical operations department of an internet company.
 - 🌱 Currently learning and researching automation, cloud native and devops related technologies.
 - 🤔 My goal is to become a full stack engineer.
 ### Lang ❤ 
