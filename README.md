@@ -1,4 +1,14 @@
 ### About me 👋
+
+___       ________  ________  ________  ___  ___  ________     
+|\  \     |\   __  \|\   __  \|\_____  \|\  \|\  \|\   __  \    
+\ \  \    \ \  \|\  \ \  \|\  \\|___/  /\ \  \\\  \ \  \|\  \   
+\ \  \    \ \   __  \ \   __  \   /  / /\ \  \\\  \ \   __  \  
+ \ \  \____\ \  \ \  \ \  \ \  \ /  /_/__\ \  \\\  \ \  \ \  \ 
+  \ \_______\ \__\ \__\ \__\ \__\\________\ \_______\ \__\ \__\
+   \|_______|\|__|\|__|\|__|\|__|\|_______|\|_______|\|__|\|__|
+
+
 <!--
 **Sseve/Sseve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,17 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - ❤
 --> 
--
-             ```
-              ___       ________  ________  ________  ___  ___  ________     
-             |\  \     |\   __  \|\   __  \|\_____  \|\  \|\  \|\   __  \    
-             \ \  \    \ \  \|\  \ \  \|\  \\|___/  /\ \  \\\  \ \  \|\  \   
-              \ \  \    \ \   __  \ \   __  \   /  / /\ \  \\\  \ \   __  \  
-               \ \  \____\ \  \ \  \ \  \ \  \ /  /_/__\ \  \\\  \ \  \ \  \ 
-                \ \_______\ \__\ \__\ \__\ \__\\________\ \_______\ \__\ \__\
-                 \|_______|\|__|\|__|\|__|\|__|\|_______|\|_______|\|__|\|__|
-             
-             ```
+
 - 🔭 I work in the technical operations department of an internet company.
 - 🌱 Currently learning and researching automation, cloud native and devops related technologies.
 - 🤔 My goal is to become a full stack engineer.
