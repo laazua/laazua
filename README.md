@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ❤
+--> 
 ```
  ___       ________  ________  ________  ___  ___  ________     
 |\  \     |\   __  \|\   __  \|\_____  \|\  \|\  \|\   __  \    
@@ -23,7 +24,6 @@ Here are some ideas to get you started:
     \|_______|\|__|\|__|\|__|\|__|\|_______|\|_______|\|__|\|__|
 
 ```
---> 
 - 🔭 I work in the technical operations department of an internet company.
 - 🌱 Currently learning and researching automation, cloud native and devops related technologies.
 - 🤔 My goal is to become a full stack engineer.
