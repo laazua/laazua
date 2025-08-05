@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 ![Rabbitmq](https://img.shields.io/badge/Rabbitmq-7A0099?logo=rabbitmq&logoColor=white&style=plastic)
 ![Nginx](https://img.shields.io/badge/Nginx-7A0099?logo=nginx&logoColor=white&style=plastic)
 ![Prometheus](https://img.shields.io/badge/Prometheus-7A0099?logo=prometheus&logoColor=white&style=plastic)
-![V2ray](https://img.shields.io/badge/V2ray-7A0099.svg?logo=openVPN&logoColor=white&style=plastic)
+![openVpn](https://img.shields.io/badge/v2ray-7A0099?logo=openVpn&logoColor=white&style=plastic)
+![V2ray](https://img.shields.io/badge/V2ray-7A0099.svg?logo=shadow&logoColor=white&style=plastic)
 <!--
 ![VSCode](https://img.shields.io/badge/VSCode-7A0099?logo=visual-studio-code&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-14354C?logo=C/C++&logoColor=white)
