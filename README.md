@@ -39,15 +39,15 @@ Here are some ideas to get you started:
 ### Tools ⚡ 
 ![Linux](https://img.shields.io/badge/Linux-7A0099?logo=linux&logoColor=white&style=plastic)
 ![Docker](https://img.shields.io/badge/Docker-7A0099.svg?logo=docker&logoColor=white&style=plastic)
-![K8s](https://img.shields.io/badge/Kubernetes-7A0099.svg?logo=kubernetes&logoColor=white&style=plastic)
+![K8s](https://img.shields.io/badge/K8s-7A0099.svg?logo=kubernetes&logoColor=white&style=plastic)
 ![Helm](https://img.shields.io/badge/Helm-7A0099.svg?logo=helm&logoColor=white&style=plastic)
 ![Jenkins](https://img.shields.io/badge/Jenkins-7A0099?logo=Jenkins&logoColor=white?style=plastic&style=plastic)
 ![Ansible](https://img.shields.io/badge/Ansible-7A0099.svg?logo=ansible&logoColor=white&style=plastic)
-![Elastic](https://img.shields.io/badge/Elastic-7A0099.svg?logo=Elastic&logoColor=white&style=plastic)
+![Elastic](https://img.shields.io/badge/Elk-7A0099.svg?logo=Elastic&logoColor=white&style=plastic)
 ![Rabbitmq](https://img.shields.io/badge/Rabbitmq-7A0099?logo=rabbitmq&logoColor=white&style=plastic)
 ![Nginx](https://img.shields.io/badge/Nginx-7A0099?logo=nginx&logoColor=white&style=plastic)
 ![Prometheus](https://img.shields.io/badge/Prometheus-7A0099?logo=prometheus&logoColor=white&style=plastic)
-![openVpn](https://img.shields.io/badge/vpn-7A0099?logo=openVpn&logoColor=white&style=plastic)
+![openVpn](https://img.shields.io/badge/Vpn-7A0099?logo=openVpn&logoColor=white&style=plastic)
 ![V2ray](https://img.shields.io/badge/V2ray-7A0099.svg?logo=shadow&logoColor=white&style=plastic)
 <!--
 ![VSCode](https://img.shields.io/badge/VSCode-7A0099?logo=visual-studio-code&logoColor=white)
