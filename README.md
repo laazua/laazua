@@ -35,9 +35,10 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/Django-7A0099?logo=Django&logoColor=white&style=plastic)
 ![Flask](https://img.shields.io/badge/Flask-7A0099?logo=Flask&logoColor=white&style=plastic)
 ![FastAPI](https://img.shields.io/badge/FastAPI-7A0099?logo=FastAPI&logoColor=white&style=plastic)
+<!--
 ![Java](https://img.shields.io/badge/Java-7A0099?logo=openjdk&logoColor=white&style=plastic)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-7A0099?logo=Spring&logoColor=white&style=plastic)
-
+-->
 ### Tools ⚡ 
 ![Linux](https://img.shields.io/badge/Linux-7A0099?logo=linux&logoColor=white&style=plastic)
 ![Docker](https://img.shields.io/badge/Docker-7A0099.svg?logo=docker&logoColor=white&style=plastic)
