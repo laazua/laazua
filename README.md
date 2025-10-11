@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 ### Lang ❤ 
 ![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white&link=https://python.org&style=plastic)
 ![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white&link=https://go.dev&style=plastic)
-![Jinja](https://img.shields.io/badge/Jinja-7A0099?logo=Jinja&logoColor=white&style=plastic)
 ![Django](https://img.shields.io/badge/Django-7A0099?logo=Django&logoColor=white&style=plastic)
 ![Flask](https://img.shields.io/badge/Flask-7A0099?logo=Flask&logoColor=white&style=plastic)
 ![FastAPI](https://img.shields.io/badge/FastAPI-7A0099?logo=FastAPI&logoColor=white&style=plastic)
+![Jinja](https://img.shields.io/badge/Jinja-7A0099?logo=Jinja&logoColor=white&style=plastic)
 <!--
 ![Java](https://img.shields.io/badge/Java-7A0099?logo=openjdk&logoColor=white&style=plastic)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-7A0099?logo=Spring&logoColor=white&style=plastic)
