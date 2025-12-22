@@ -1,25 +1,29 @@
 ### About me 👋
+- 🔭 I work in the technical operations department of an internet company.
+- 🌱 Currently learning and researching automation, cloud native and devops related technologies.
+- 🤔 My goal is to become a full stack engineer.
+
 ```
-                          ***************************************
-                          **       _                   _       **
-                          **     _( )                 ( )_     **
-                          **    (_, |      __ __      | ,_)    **
-                          **       \'\    /  ^  \    /'/       **
-                          **        '\'\,/\      \,/'/'        **
-                          **          '\| []   [] |/'          **
-                          **            (_  /^\  _)            **
-                          **              \  ~  /              **
-                          **              /HHHHH\              **
-                          **            /'/{^^^}\'\            **
-                          **        _,/'/'  ^^^  '\'\,_        **
-                          **       (_, |           | ,_)       **
-                          **         (_)           (_)         **
-                          **                                   **
-                          ***************************************
-                                          **  **                 
-                                          **  **                 
-                                        ****  ****               
-                                     ****************            
+                                                ***************************************
+                                                **       _                   _       **
+                                                **     _( )                 ( )_     **
+                                                **    (_, |      __ __      | ,_)    **
+                                                **       \'\    /  ^  \    /'/       **
+                                                **        '\'\,/\      \,/'/'        **
+                                                **          '\| []   [] |/'          **
+                                                **            (_  /^\  _)            **
+                                                **              \  ~  /              **
+                                                **              /HHHHH\              **
+                                                **            /'/{^^^}\'\            **
+                                                **        _,/'/'  ^^^  '\'\,_        **
+                                                **       (_, |           | ,_)       **
+                                                **         (_)           (_)         **
+                                                **                                   **
+                                                ***************************************
+                                                                **  **                 
+                                                                **  **                 
+                                                              ****  ****               
+                                                           ****************            
 ```
 
 <!--
@@ -38,9 +42,6 @@ Here are some ideas to get you started:
 - ❤
 --> 
 
-- 🔭 I work in the technical operations department of an internet company.
-- 🌱 Currently learning and researching automation, cloud native and devops related technologies.
-- 🤔 My goal is to become a full stack engineer.
 ### Lang ❤ 
 ![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white&link=https://python.org&style=plastic)
 ![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white&link=https://go.dev&style=plastic)
