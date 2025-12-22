@@ -59,14 +59,24 @@ Here are some ideas to get you started:
 - ❤
 --> 
 
-<div style="width: 100%; overflow-x: auto;">
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=laazua&theme=tokyonight" alt="GitHub Stats" style="width: 100%;">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laazua&hide=javascript,html&theme=tokyonight" alt="Top Languages" style="width: 100%;">
+    </td>
+  </tr>
+</table>
+
+<img src="http://img.5iqiqu.com/images13/93/93a35199235af2b5c8212348c340f0c2.gif" alt="GIF" style="width: 100%;">
+
+<!--
 |STATS|LANGUAGES|
 |---|---|
 |[![laazua's GitHub stats](https://github-readme-stats.vercel.app/api?username=laazua&theme=tokyonight)](https://github.com/laazua/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laazua&hide=javascript,html&theme=tokyonight)](https://github.com/laazua/github-readme-stats)|
-
 ![Image text](http://img.5iqiqu.com/images13/93/93a35199235af2b5c8212348c340f0c2.gif)
-</div>
 
-<!--
 ![Image text](https://res.cloudinary.com/practicaldev/image/fetch/s--yYiDPnHh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/snu9zy2ywp0ftfcthda2.jpg)
 -->
