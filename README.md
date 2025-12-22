@@ -3,45 +3,6 @@
 - 🌱 Currently learning and researching automation, cloud native and devops related technologies.
 - 🤔 My goal is to become a full stack engineer.
 
-```
-                                    ***************************************
-                                    **       _                   _       **
-                                    **     _( )                 ( )_     **
-                                    **    (_, |      __ __      | ,_)    **
-                                    **       \'\    /  ^  \    /'/       **
-                                    **        '\'\,/\      \,/'/'        **
-                                    **          '\| []   [] |/'          **
-                                    **            (_  /^\  _)            **
-                                    **              \  ~  /              **
-                                    **              /HHHHH\              **
-                                    **            /'/{^^^}\'\            **
-                                    **        _,/'/'  ^^^  '\'\,_        **
-                                    **       (_, |           | ,_)       **
-                                    **         (_)           (_)         **
-                                    **                                   **
-                                    ***************************************
-                                                    **  **                 
-                                                    **  **                 
-                                                  ****  ****               
-                                               ****************            
-```
-
-<!--
-**Sseve/Sseve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ❤
---> 
-
 ### Lang ❤ 
 ![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white&link=https://python.org&style=plastic)
 ![Golang](https://img.shields.io/badge/Golang-7A0099.svg?logo=go&logoColor=white&link=https://go.dev&style=plastic)
@@ -71,6 +32,46 @@ Here are some ideas to get you started:
 ![C/C++](https://img.shields.io/badge/C/C++-14354C?logo=C/C++&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-14354C?logo=rust&logoColor=white)
 <!--
+```
+                                    ***************************************
+                                    **       _                   _       **
+                                    **     _( )                 ( )_     **
+                                    **    (_, |      __ __      | ,_)    **
+                                    **       \'\    /  ^  \    /'/       **
+                                    **        '\'\,/\      \,/'/'        **
+                                    **          '\| []   [] |/'          **
+                                    **            (_  /^\  _)            **
+                                    **              \  ~  /              **
+                                    **              /HHHHH\              **
+                                    **            /'/{^^^}\'\            **
+                                    **        _,/'/'  ^^^  '\'\,_        **
+                                    **       (_, |           | ,_)       **
+                                    **         (_)           (_)         **
+                                    **                                   **
+                                    ***************************************
+                                                    **  **                 
+                                                    **  **                 
+                                                  ****  ****               
+                                               *****LAAZUA*****
+```
+
+<!--
+**Sseve/Sseve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- ❤
+--> 
+
+
 - 😄 加油, 奥利给！
 
 |STATS|LANGUAGES|
