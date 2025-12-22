@@ -31,7 +31,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-7A0099?logo=visual-studio-code&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-14354C?logo=C/C++&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-14354C?logo=rust&logoColor=white)
-<!--
+-->
 ```
                                     ***************************************
                                     **       _                   _       **
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 - ❤
 --> 
 
-
+<!--
 - 😄 加油, 奥利给！
 
 |STATS|LANGUAGES|
