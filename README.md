@@ -6,7 +6,7 @@
 -->
 - 🤔 我的目标是成为一名全栈工程师.
 - 🔭 目前在一家小型互联网公司的技术运营部门工作.
-- 🌱 正在学习和研究自动化运维、云原生及DevOps相关技术.
+- 🌱 正在学习和研究自动化运维、云原生、DevOps、AI相关技术栈.
 
 ### Lang ❤ 
 ![Python](https://img.shields.io/badge/Python-7A0099.svg?logo=python&logoColor=white&link=https://python.org&style=plastic)
