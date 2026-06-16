@@ -51,7 +51,7 @@
 
   
 ### 项目说明
-- **[api-rbac](https://github.com/laazua/api-rbac.git)** :  一个rbac鉴权模块.以独立服务运行,且可以与别的模块服务集成.
+- **[api-rbac](https://github.com/laazua/api-rbac.git)** :  一个rbac鉴权模块,所有代码AI完成.以独立服务运行,且可以与别的模块服务集成.
 
 <!--
 **Sseve/Sseve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
