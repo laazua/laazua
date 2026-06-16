@@ -37,6 +37,10 @@
 ![C/C++](https://img.shields.io/badge/C/C++-14354C?logo=C/C++&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-14354C?logo=rust&logoColor=white)
 -->
+
+### 项目说明
+- **[api-rbac](https://github.com/laazua/api-rbac.git)**: 一个rbac鉴权模块.以独立服务运行,且可以与别的模块服务集成.
+
 ```
                                   ██                                             
                                  ░██                                             
